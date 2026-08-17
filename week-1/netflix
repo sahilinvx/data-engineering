@@ -1,0 +1,14 @@
+data sources:
+- viewing events > play, pause, seek, stop, search queries, ratings/thumbs, device and network telemetry, billing and subscriptions, content metadata.
+
+
+- streaming use case 
+
+> live updates of continue watching.
+> if buffering spikes in a region, infrastructure needs to know within seconds.
+
+- batch use case
+
+> nightly retraining of recommendations of models - based on previous day viewing history?
+> monthly billing cronjobs.
+> calculating how much infrastrcture we will need for next one year based on current traffic?

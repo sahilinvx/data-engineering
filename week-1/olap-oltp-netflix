@@ -1,0 +1,11 @@
+OLTP transactions:
+- user press play, pause, playback.. > one row updated per action, needs to happen instantly.
+- user adds one series in my list > single quick write
+- making payments > single ACID write   
+- new user signup > single db write 
+
+
+OLAP queries:
+- top 10 most watched shows this week by country.
+- first 7 days of launching new series, whats its watch completion rate? - to take decisions to show in user feed.
+- which genre drive the most subscriber retention.
