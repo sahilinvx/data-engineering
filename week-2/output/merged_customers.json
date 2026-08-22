@@ -1,0 +1,146 @@
+{
+  "merged_at": "2026-08-22T11:29:58.504581+00:00",
+  "source_dir": "data/csv_batch",
+  "file_count": 10,
+  "row_count": 23,
+  "rows": [
+    {
+      "source_file": "customers_01.csv",
+      "name": "Ava Thompson",
+      "email": "ava.thompson@example.com",
+      "city": "Austin"
+    },
+    {
+      "source_file": "customers_01.csv",
+      "name": "Liam Chen",
+      "email": "liam.chen@example.com",
+      "city": "Seattle"
+    },
+    {
+      "source_file": "customers_01.csv",
+      "name": "Noah Patel",
+      "email": "noah.patel@example.com",
+      "city": "Chicago"
+    },
+    {
+      "source_file": "customers_02.csv",
+      "name": "Mia Rodriguez",
+      "email": "mia.rodriguez@example.com",
+      "city": "Denver"
+    },
+    {
+      "source_file": "customers_02.csv",
+      "name": "Ethan Kim",
+      "email": "ethan.kim@example.com",
+      "city": "Boston"
+    },
+    {
+      "source_file": "customers_02.csv",
+      "name": "Sofia Nguyen",
+      "email": "sofia.nguyen@example.com",
+      "city": "Miami"
+    },
+    {
+      "source_file": "customers_03.csv",
+      "name": "Oliver Brooks",
+      "email": "oliver.brooks@example.com",
+      "city": "Portland"
+    },
+    {
+      "source_file": "customers_03.csv",
+      "name": "Isabella Garcia",
+      "email": "isabella.garcia@example.com",
+      "city": "Phoenix"
+    },
+    {
+      "source_file": "customers_03.csv",
+      "name": "Lucas Martin",
+      "email": "lucas.martin@example.com",
+      "city": "Atlanta"
+    },
+    {
+      "source_file": "customers_04.csv",
+      "name": "Amelia Clark",
+      "email": "amelia.clark@example.com",
+      "city": "Dallas"
+    },
+    {
+      "source_file": "customers_04.csv",
+      "name": "Benjamin Lewis",
+      "email": "benjamin.lewis@example.com",
+      "city": "Houston"
+    },
+    {
+      "source_file": "customers_05.csv",
+      "name": "Charlotte Young",
+      "email": "charlotte.young@example.com",
+      "city": "Minneapolis"
+    },
+    {
+      "source_file": "customers_05.csv",
+      "name": "Henry Walker",
+      "email": "henry.walker@example.com",
+      "city": "Detroit"
+    },
+    {
+      "source_file": "customers_05.csv",
+      "name": "Emma Hall",
+      "email": "emma.hall@example.com",
+      "city": "Nashville"
+    },
+    {
+      "source_file": "customers_06.csv",
+      "name": "Jack Allen",
+      "email": "jack.allen@example.com",
+      "city": "Raleigh"
+    },
+    {
+      "source_file": "customers_06.csv",
+      "name": "Grace King",
+      "email": "grace.king@example.com",
+      "city": "Orlando"
+    },
+    {
+      "source_file": "customers_07.csv",
+      "name": "Zoe Wright",
+      "email": "zoe.wright@example.com",
+      "city": "Columbus"
+    },
+    {
+      "source_file": "customers_07.csv",
+      "name": "Daniel Scott",
+      "email": "daniel.scott@example.com",
+      "city": "San Diego"
+    },
+    {
+      "source_file": "customers_07.csv",
+      "name": "Aria Green",
+      "email": "aria.green@example.com",
+      "city": "Tampa"
+    },
+    {
+      "source_file": "customers_08.csv",
+      "name": "Leo Turner",
+      "email": "leo.turner@example.com",
+      "city": "Denver"
+    },
+    {
+      "source_file": "customers_08.csv",
+      "name": "Nora Baker",
+      "email": "nora.baker@example.com",
+      "city": "Austin"
+    },
+    {
+      "source_file": "customers_09.csv",
+      "name": "Wyatt Adams",
+      "email": "wyatt.adams@example.com",
+      "city": "Salt Lake City"
+    },
+    {
+      "source_file": "customers_09.csv",
+      "name": "Owen Carter",
+      "email": "owen.carter@example.com",
+      "city": ""
+    }
+  ]
+}
